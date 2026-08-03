@@ -41,10 +41,8 @@ Ciao, sono Fabio! Sto muovendo i primi passi nello sviluppo front-end, costruend
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AmbrosinoFabio&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmbrosinoFabio&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117" width="41%"/>
+![Visite profilo](https://komarev.com/ghpvc/?username=AmbrosinoFabio&style=for-the-badge&color=0b0b2b&label=VISITE+PROFILO)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b2b,50:1b2735,100:090a0f&height=150&section=footer&animation=twinkling" width="100%"/>
 
