@@ -76,32 +76,36 @@ Gestione autonoma di attività e progetti · Organizzazione e contabilità di ba
 
 ## 🚀 Progetti in evidenza
 
-### 🐉 [Dragon Ball](https://ambrosinofabio.github.io/my-starting-projects/Dragonball/dragonball.html)
+### 🐉 [Dragon Ball](https://github.com/AmbrosinoFabio/dragon-ball)
 
 Sito fan-made dedicato a Dragon Ball, con le saghe della serie raccontate in libricini sfogliabili, una galleria "databook" dei personaggi in stile scouter, una sezione curiosità e uno scouter interattivo per confrontare i power level.
+
+**[🔗 Demo live](https://ambrosinofabio.github.io/dragon-ball/dragonball.html)**
 
 - **Obiettivo:** costruire un sito di contenuti ricco e navigabile, non solo una singola pagina statica
 - **Cosa ho imparato:** gestione di dati condivisi tra più pagine, generazione dinamica di contenuti via DOM scripting, animazioni CSS, layout responsive
 - **Stack:** HTML · CSS · JavaScript vanilla
 
-### 🇮🇹 [Italia Explorer](https://ambrosinofabio.github.io/my-starting-projects/Primi%20passi/PJ1.html)
+### 🇮🇹 [Italia Explorer](https://github.com/AmbrosinoFabio/italia-explorer)
 
 Sito di esplorazione delle città italiane, con card delle destinazioni, mappa interattiva, pagine di dettaglio per ogni città, preferiti/visitate salvati in locale e modalità scura.
+
+**[🔗 Demo live](https://ambrosinofabio.github.io/italia-explorer/PJ1.html)**
 
 - **Obiettivo:** integrare una libreria esterna reale in un progetto e gestire stato persistente lato utente
 - **Cosa ho imparato:** integrazione di Leaflet/OpenStreetMap, uso di `localStorage`, gestione di più pagine collegate tra loro
 - **Stack:** HTML · CSS · JavaScript · Leaflet
 
-### 📄 [Il mio CV](https://ambrosinofabio.github.io/my-starting-projects/Il%20mio%20CV/index.html)
+### 📄 [Il mio CV](https://github.com/AmbrosinoFabio/cv-fabio-ambrosino)
 
 Pagina personale con il mio curriculum: profilo professionale, competenze, esperienze lavorative e formazione.
+
+**[🔗 Demo live](https://ambrosinofabio.github.io/cv-fabio-ambrosino/index.html)**
 
 - **Obiettivo:** avere una versione web del mio CV, facile da aggiornare e da condividere
 - **Cosa ho imparato:** layout CSS creativo e animazioni leggere
 - **Stack:** HTML · CSS
-
 <br>
-
 <a id="-formazione-e-certificazioni"></a>
 
 ## 🎓 Formazione e certificazioni
