@@ -10,17 +10,23 @@
 
 Ciao, sono Fabio! Sto muovendo i primi passi nello sviluppo front-end, costruendo progetti da zero con HTML, CSS e JavaScript puro per imparare bene le basi prima di passare ai framework.
 
+### 🎯 Il mio percorso
+
+In transizione verso lo sviluppo front-end dopo un percorso nel settore ristorazione e commercio — imparo costruendo progetti reali da zero, un repository alla volta.
+
+### 🌱 Attualmente imparo
+
+JavaScript moderno (DOM, fetch, ES6+), con l'obiettivo di iniziare presto a esplorare i primi framework front-end.
+
 ---
 
 ### 🛰️ I miei progetti
 
-<div align="center">
-
-[![Dragon Ball](https://img.shields.io/badge/🐉_Dragon%20Ball-Sito%20fan--made-0b0b2b?style=for-the-badge&labelColor=1b2735)](https://ambrosinofabio.github.io/my-starting-projects/Dragonball/dragonball.html)
-[![Italia Explorer](https://img.shields.io/badge/🇮🇹_Italia%20Explorer-Esplora%20le%20città-0b0b2b?style=for-the-badge&labelColor=1b2735)](https://ambrosinofabio.github.io/my-starting-projects/Primi%20passi/PJ1.html)
-[![Il mio CV](https://img.shields.io/badge/📄_Il%20mio%20CV-Curriculum-0b0b2b?style=for-the-badge&labelColor=1b2735)](https://ambrosinofabio.github.io/my-starting-projects/Il%20mio%20CV/index.html)
-
-</div>
+| Progetto | Descrizione |
+|---|---|
+| [🐉 **Dragon Ball**](https://ambrosinofabio.github.io/my-starting-projects/Dragonball/dragonball.html) | Sito fan-made: saghe, personaggi, curiosità e scouter interattivo |
+| [🇮🇹 **Italia Explorer**](https://ambrosinofabio.github.io/my-starting-projects/Primi%20passi/PJ1.html) | Esplora le città italiane con mappa interattiva |
+| [📄 **Il mio CV**](https://ambrosinofabio.github.io/my-starting-projects/Il%20mio%20CV/index.html) | Il mio curriculum |
 
 ---
 
@@ -28,14 +34,33 @@ Ciao, sono Fabio! Sto muovendo i primi passi nello sviluppo front-end, costruend
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-0b0b2b?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0b0b2b?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0b0b2b?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Git](https://img.shields.io/badge/Git-0b0b2b?style=for-the-badge&logo=git&logoColor=F05032)
 
 </div>
 
 ---
+
+### 📫 Contatti
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-0b0b2b?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:fabioambrosino98@hotmail.it)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0b0b2b?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/fabio-ambrosino-6a9229389)
+
+</div>
+
+---
+
+### 🏆 Trofei GitHub
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AmbrosinoFabio&theme=algolia&no-frame=true&margin-w=10&row=1" />
+
+</div>
 
 ### 📊 Statistiche GitHub
 
@@ -45,4 +70,4 @@ Ciao, sono Fabio! Sto muovendo i primi passi nello sviluppo front-end, costruend
 
 </div>
 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b2b,50:1b2735,100:090a0f&height=150&section=footer&animation=twinkling" width="100%"/>
