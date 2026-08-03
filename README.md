@@ -32,13 +32,14 @@ Ciao, sono Fabio! Sto muovendo i primi passi nello sviluppo front-end, costruend
 
 <br>
 
+
 <a id="-percorso"></a>
 
 ## 🎯 Percorso
 
-In transizione verso lo sviluppo front-end dopo un percorso professionale nel settore ristorativo e commerciale. Non parto da zero come persona: porto con me esperienza concreta di lavoro (gestione di un'attività, rapporto col pubblico, organizzazione), e sto costruendo sopra queste basi le competenze tecniche da sviluppatore, un progetto reale alla volta.
+Attualmente Responsabile / Store Manager, con un percorso costruito nella gestione di attività commerciali e nel settore ristorativo. Sto affiancando a questa esperienza lo studio dello sviluppo front-end — un corso di Web Development in corso — costruendo competenze tecniche un progetto reale alla volta.
 
-<br>
+
 
 <a id="-competenze"></a>
 
@@ -60,8 +61,8 @@ In transizione verso lo sviluppo front-end dopo un percorso professionale nel se
 
 <div align="center">
 
+![Learning](https://img.shields.io/badge/Corso%20Udemy%20%C2%B7%20Web%20Development-0b0b2b?style=for-the-badge&labelColor=1b2735&color=8fd3ff)
 ![Learning](https://img.shields.io/badge/JavaScript%20moderno%20(ES6%2B)-0b0b2b?style=for-the-badge&labelColor=1b2735&color=8fd3ff)
-![Learning](https://img.shields.io/badge/Framework%20front--end-0b0b2b?style=for-the-badge&labelColor=1b2735&color=8fd3ff)
 
 </div>
 
@@ -108,6 +109,9 @@ Pagina personale con il mio curriculum: profilo professionale, competenze, esper
 - Diploma, Istituto Artistico — Grottaminarda
 - Abilitazione SAB — Somministrazione Alimenti e Bevande
 - Attestato HACCP — Sicurezza alimentare
+- Attestato Antincendio — livello 2
+- Corso Udemy — Web Development (in corso)
+
 
 <br>
 
