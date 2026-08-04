@@ -6,7 +6,9 @@
 
 [![License](https://img.shields.io/badge/LICENSE-MIT-0b0b2b?style=for-the-badge&labelColor=1b2735)](https://github.com/AmbrosinoFabio/AmbrosinoFabio/blob/main/LICENSE)
 [![Status](https://img.shields.io/badge/STATUS-IN%20EVOLUZIONE-0b0b2b?style=for-the-badge&labelColor=1b2735)](#-progetti-in-evidenza)
-[![Last commit](https://img.shields.io/github/last-commit/AmbrosinoFabio/AmbrosinoFabio?style=for-the-badge&color=0b0b2b&labelColor=1b2735)](https://github.com/AmbrosinoFabio/AmbrosinoFabio)
+[![Dragon Ball](https://img.shields.io/github/last-commit/AmbrosinoFabio/dragon-ball?style=for-the-badge&color=0b0b2b&labelColor=1b2735&label=Dragon%20Ball)](https://github.com/AmbrosinoFabio/dragon-ball)
+[![Italia Explorer](https://img.shields.io/github/last-commit/AmbrosinoFabio/Italia-explorer?style=for-the-badge&color=0b0b2b&labelColor=1b2735&label=Italia%20Explorer)](https://github.com/AmbrosinoFabio/Italia-explorer)
+[![Il mio CV](https://img.shields.io/github/last-commit/AmbrosinoFabio/cv-fabio-ambrosino?style=for-the-badge&color=0b0b2b&labelColor=1b2735&label=Il%20mio%20CV)](https://github.com/AmbrosinoFabio/cv-fabio-ambrosino)
 
 </div>
 
