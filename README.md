@@ -4,9 +4,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8FD3FF&center=true&vCenter=true&width=600&lines=Esploro+il+web+un+progetto+alla+volta+%F0%9F%9A%80;HTML+%2B+CSS+%2B+JavaScript;Sempre+in+orbita+verso+nuove+idee+%F0%9F%8C%8C" />
 
-[![License](https://img.shields.io/badge/LICENSE-MIT-0b0b2b?style=for-the-badge&labelColor=1b2735)](https://github.com/AmbrosinoFabio/my-starting-projects/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/LICENSE-MIT-0b0b2b?style=for-the-badge&labelColor=1b2735)](https://github.com/AmbrosinoFabio/AmbrosinoFabio/blob/main/LICENSE)
 [![Status](https://img.shields.io/badge/STATUS-IN%20EVOLUZIONE-0b0b2b?style=for-the-badge&labelColor=1b2735)](#-progetti-in-evidenza)
-[![Last commit](https://img.shields.io/github/last-commit/AmbrosinoFabio/my-starting-projects?style=for-the-badge&color=0b0b2b&labelColor=1b2735)](https://github.com/AmbrosinoFabio/my-starting-projects)
+[![Last commit](https://img.shields.io/github/last-commit/AmbrosinoFabio/AmbrosinoFabio?style=for-the-badge&color=0b0b2b&labelColor=1b2735)](https://github.com/AmbrosinoFabio/AmbrosinoFabio)
 
 </div>
 
