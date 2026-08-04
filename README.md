@@ -90,7 +90,7 @@ Sito fan-made dedicato a Dragon Ball, con le saghe della serie raccontate in lib
 
 Sito di esplorazione delle città italiane, con card delle destinazioni, mappa interattiva, pagine di dettaglio per ogni città, preferiti/visitate salvati in locale e modalità scura.
 
-**[🔗 Demo live](https://ambrosinofabio.github.io/italia-explorer/PJ1.html)**
+**[🔗 Demo live](https://ambrosinofabio.github.io/Italia-explorer/PJ1.html)**
 
 - **Obiettivo:** integrare una libreria esterna reale in un progetto e gestire stato persistente lato utente
 - **Cosa ho imparato:** integrazione di Leaflet/OpenStreetMap, uso di `localStorage`, gestione di più pagine collegate tra loro
