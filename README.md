@@ -1,53 +1,53 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:7c3aed,100:06b6d4&height=280&section=header&text=Fabio%20Ambrosino&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Sviluppatore%20Front-End%20%E2%80%94%20in%20formazione&descAlignY=55&descSize=18&descColor=e0f2fe" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:7c3aed,100:06b6d4&height=280&section=header&text=Fabio%20Ambrosino&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Front-End%20Developer%20%E2%80%94%20in%20training&descAlignY=55&descSize=18&descColor=e0f2fe" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Esploro+il+web+un+progetto+alla+volta+%F0%9F%9A%80;HTML+%2B+CSS+%2B+JavaScript;Sempre+in+orbita+verso+nuove+idee+%F0%9F%8C%8C" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Exploring+the+web+one+project+at+a+time+%F0%9F%9A%80;HTML+%2B+CSS+%2B+JavaScript;Always+in+orbit+toward+new+ideas+%F0%9F%8C%8C" />
 
 [![License](https://img.shields.io/badge/LICENSE-MIT-7c3aed?style=for-the-badge&labelColor=312e81)](https://github.com/AmbrosinoFabio/AmbrosinoFabio/blob/main/LICENSE)
-[![Status](https://img.shields.io/badge/STATUS-IN%20EVOLUZIONE-0891b2?style=for-the-badge&labelColor=312e81)](#-progetti-in-evidenza)
+[![Status](https://img.shields.io/badge/STATUS-EVOLVING-0891b2?style=for-the-badge&labelColor=312e81)](#-featured-projects)
 [![Dragon Ball](https://img.shields.io/github/last-commit/AmbrosinoFabio/dragon-ball?style=for-the-badge&color=7c3aed&labelColor=312e81&label=Dragon%20Ball)](https://github.com/AmbrosinoFabio/dragon-ball)
 [![Italia Explorer](https://img.shields.io/github/last-commit/AmbrosinoFabio/Italia-explorer?style=for-the-badge&color=7c3aed&labelColor=312e81&label=Italia%20Explorer)](https://github.com/AmbrosinoFabio/Italia-explorer)
-[![Il mio CV](https://img.shields.io/github/last-commit/AmbrosinoFabio/cv-fabio-ambrosino?style=for-the-badge&color=7c3aed&labelColor=312e81&label=Il%20mio%20CV)](https://github.com/AmbrosinoFabio/cv-fabio-ambrosino)
+[![My CV](https://img.shields.io/github/last-commit/AmbrosinoFabio/cv-fabio-ambrosino?style=for-the-badge&color=7c3aed&labelColor=312e81&label=My%20CV)](https://github.com/AmbrosinoFabio/cv-fabio-ambrosino)
 
 </div>
 
 <br>
 
-## 📑 Indice
+## 📑 Table of Contents
 
-- [👋 Chi sono](#-chi-sono)
-- [🎯 Percorso](#-percorso)
-- [🧠 Competenze](#-competenze)
-- [🚀 Progetti in evidenza](#-progetti-in-evidenza)
-- [🎓 Formazione e certificazioni](#-formazione-e-certificazioni)
-- [📊 Statistiche](#-statistiche)
-- [📫 Contatti](#-contatti)
-
-<br>
-
-<a id="-chi-sono"></a>
-
-## 👋 Chi sono
-
-Ciao, sono Fabio! Sto muovendo i primi passi nello sviluppo front-end, costruendo progetti da zero con HTML, CSS e JavaScript puro per imparare bene le basi prima di passare ai framework. Questo profilo raccoglie il mio percorso di apprendimento: crescerà man mano che imparo cose nuove.
+- [👋 About Me](#-about-me)
+- [🎯 Journey](#-journey)
+- [🧠 Skills](#-skills)
+- [🚀 Featured Projects](#-featured-projects)
+- [🎓 Education and Certifications](#-education-and-certifications)
+- [📊 Stats](#-stats)
+- [📫 Contact](#-contact)
 
 <br>
 
+<a id="-about-me"></a>
 
-<a id="-percorso"></a>
+## 👋 About Me
 
-## 🎯 Percorso
+Hi, I'm Fabio! I'm taking my first steps in front-end development, building projects from scratch with plain HTML, CSS and JavaScript to master the fundamentals before moving on to frameworks. This profile collects my learning journey, and it will grow as I learn new things.
 
-Attualmente Responsabile / Store Manager, con un percorso costruito nella gestione di attività commerciali e nel settore ristorativo. Sto affiancando a questa esperienza lo studio dello sviluppo front-end — un corso di Web Development in corso — costruendo competenze tecniche un progetto reale alla volta.
+<br>
+
+
+<a id="-journey"></a>
+
+## 🎯 Journey
+
+Currently a Store Manager, with a background in running retail businesses and in the food service industry. Alongside this experience I'm studying front-end development through an ongoing Web Development course, building technical skills one real project at a time.
 
 
 
-<a id="-competenze"></a>
+<a id="-skills"></a>
 
-## 🧠 Competenze
+## 🧠 Skills
 
-**Linguaggi e strumenti**
+**Languages and tools**
 
 <div align="center">
 
@@ -59,89 +59,89 @@ Attualmente Responsabile / Store Manager, con un percorso costruito nella gestio
 
 </div>
 
-**In apprendimento**
+**Currently learning**
 
 <div align="center">
 
-![Learning](https://img.shields.io/badge/Corso%20Udemy%20%C2%B7%20Web%20Development-7c3aed?style=for-the-badge&labelColor=312e81&color=0891b2)
-![Learning](https://img.shields.io/badge/JavaScript%20moderno%20(ES6%2B)-7c3aed?style=for-the-badge&labelColor=312e81&color=0891b2)
+![Learning](https://img.shields.io/badge/Udemy%20Course%20%C2%B7%20Web%20Development-7c3aed?style=for-the-badge&labelColor=312e81&color=0891b2)
+![Learning](https://img.shields.io/badge/Modern%20JavaScript%20(ES6%2B)-7c3aed?style=for-the-badge&labelColor=312e81&color=0891b2)
 
 </div>
 
-**Competenze trasversali**
+**Soft skills**
 
-Gestione autonoma di attività e progetti · Organizzazione e contabilità di base · Rapporto col pubblico · Problem solving pratico
+Independent management of businesses and projects · Organization and basic accounting · Customer relations · Practical problem solving
 
 <br>
 
-<a id="-progetti-in-evidenza"></a>
+<a id="-featured-projects"></a>
 
-## 🚀 Progetti in evidenza
+## 🚀 Featured Projects
 
 ### 🐉 [Dragon Ball](https://github.com/AmbrosinoFabio/dragon-ball)
 
-Sito fan-made dedicato a Dragon Ball, con le saghe della serie raccontate in libricini sfogliabili, una galleria "databook" dei personaggi in stile scouter, una sezione curiosità e uno scouter interattivo per confrontare i power level.
+Fan-made Dragon Ball website, with the series' sagas told in flippable booklets, a scouter-style character "databook" gallery, a trivia section and an interactive scouter to compare power levels.
 
-**[🔗 Demo live](https://ambrosinofabio.github.io/dragon-ball/dragonball.html)**
+**[🔗 Live demo](https://ambrosinofabio.github.io/dragon-ball/dragonball.html)**
 
-Sempre online, non serve installare nulla. Preferisci provarlo sul tuo computer? [Ecco come avviarlo in locale](https://github.com/AmbrosinoFabio/dragon-ball#come-avviarlo-in-locale).
+Always online, nothing to install. Prefer to try it on your own computer? [Here's how to run it locally](https://github.com/AmbrosinoFabio/dragon-ball#running-locally).
 
-- **Obiettivo:** costruire un sito di contenuti ricco e navigabile, non solo una singola pagina statica
-- **Cosa ho imparato:** gestione di dati condivisi tra più pagine, generazione dinamica di contenuti via DOM scripting, animazioni CSS, layout responsive
+- **Goal:** build a rich, easy-to-navigate content website, not just a single static page
+- **What I learned:** sharing data across multiple pages, generating content dynamically through DOM scripting, CSS animations, responsive layouts
 - **Stack:** HTML · CSS · JavaScript vanilla
 
 ### 🇮🇹 [Italia Explorer](https://github.com/AmbrosinoFabio/italia-explorer)
 
-Sito di esplorazione delle città italiane, con card delle destinazioni, mappa interattiva, pagine di dettaglio per ogni città, preferiti/visitate salvati in locale e modalità scura.
+A website for exploring Italian cities, with destination cards, an interactive map, a detail page for each city, favorites and visited cities saved locally, and dark mode.
 
-**[🔗 Demo live](https://ambrosinofabio.github.io/Italia-explorer/PJ1.html)**
+**[🔗 Live demo](https://ambrosinofabio.github.io/Italia-explorer/PJ1.html)**
 
-Sempre online, non serve installare nulla. Preferisci provarlo sul tuo computer? [Ecco come avviarlo in locale](https://github.com/AmbrosinoFabio/Italia-explorer#come-avviarlo-in-locale).
+Always online, nothing to install. Prefer to try it on your own computer? [Here's how to run it locally](https://github.com/AmbrosinoFabio/Italia-explorer#running-locally).
 
-- **Obiettivo:** integrare una libreria esterna reale in un progetto e gestire stato persistente lato utente
-- **Cosa ho imparato:** integrazione di Leaflet/OpenStreetMap, uso di `localStorage`, gestione di più pagine collegate tra loro
+- **Goal:** integrate a real external library into a project and manage persistent client-side state
+- **What I learned:** integrating Leaflet/OpenStreetMap, using `localStorage`, managing multiple linked pages
 - **Stack:** HTML · CSS · JavaScript · Leaflet
 
-### 📄 [Il mio CV](https://github.com/AmbrosinoFabio/cv-fabio-ambrosino)
+### 📄 [My CV](https://github.com/AmbrosinoFabio/cv-fabio-ambrosino)
 
-Pagina personale con il mio curriculum: profilo professionale, competenze, esperienze lavorative e formazione.
+A personal page with my resume: professional profile, skills, work experience and education.
 
-**[🔗 Demo live](https://ambrosinofabio.github.io/cv-fabio-ambrosino/index.html)**
+**[🔗 Live demo](https://ambrosinofabio.github.io/cv-fabio-ambrosino/index.html)**
 
-Sempre online, non serve installare nulla. Preferisci provarlo sul tuo computer? [Ecco come avviarlo in locale](https://github.com/AmbrosinoFabio/cv-fabio-ambrosino#come-avviarlo-in-locale).
+Always online, nothing to install. Prefer to try it on your own computer? [Here's how to run it locally](https://github.com/AmbrosinoFabio/cv-fabio-ambrosino#running-locally).
 
-- **Obiettivo:** avere una versione web del mio CV, facile da aggiornare e da condividere
-- **Cosa ho imparato:** layout CSS creativo e animazioni leggere
+- **Goal:** have a web version of my resume that is easy to update and share
+- **What I learned:** creative CSS layouts and lightweight animations
 - **Stack:** HTML · CSS
 <br>
-<a id="-formazione-e-certificazioni"></a>
+<a id="-education-and-certifications"></a>
 
-## 🎓 Formazione e certificazioni
+## 🎓 Education and Certifications
 
-- Diploma, Istituto Artistico — Grottaminarda
-- Abilitazione SAB — Somministrazione Alimenti e Bevande
-- Attestato HACCP — Sicurezza alimentare
-- Attestato Antincendio — livello 2
-- Corso Udemy — Web Development (in corso)
+- High School Diploma, Art Institute — Grottaminarda
+- SAB License — Food and Beverage Service
+- HACCP Certificate — Food Safety
+- Fire Safety Certificate — Level 2
+- Udemy Course — Web Development (in progress)
 
 
 <br>
 
-<a id="-statistiche"></a>
+<a id="-stats"></a>
 
-## 📊 Statistiche
+## 📊 Stats
 
 <div align="center">
 
-![Visite profilo](https://komarev.com/ghpvc/?username=AmbrosinoFabio&style=for-the-badge&color=7c3aed&label=VISITE+PROFILO)
+![Profile views](https://komarev.com/ghpvc/?username=AmbrosinoFabio&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
 
 </div>
 
 <br>
 
-<a id="-contatti"></a>
+<a id="-contact"></a>
 
-## 📫 Contatti
+## 📫 Contact
 
 <div align="center">
 
