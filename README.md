@@ -83,6 +83,7 @@ Gestione autonoma di attività e progetti · Organizzazione e contabilità di ba
 Sito fan-made dedicato a Dragon Ball, con le saghe della serie raccontate in libricini sfogliabili, una galleria "databook" dei personaggi in stile scouter, una sezione curiosità e uno scouter interattivo per confrontare i power level.
 
 **[🔗 Demo live](https://ambrosinofabio.github.io/dragon-ball/dragonball.html)**
+Sempre online, non serve installare nulla. Preferisci provarlo sul tuo computer? [Ecco come avviarlo in locale](https://github.com/AmbrosinoFabio/dragon-ball#come-avviarlo-in-locale).
 
 - **Obiettivo:** costruire un sito di contenuti ricco e navigabile, non solo una singola pagina statica
 - **Cosa ho imparato:** gestione di dati condivisi tra più pagine, generazione dinamica di contenuti via DOM scripting, animazioni CSS, layout responsive
@@ -93,6 +94,7 @@ Sito fan-made dedicato a Dragon Ball, con le saghe della serie raccontate in lib
 Sito di esplorazione delle città italiane, con card delle destinazioni, mappa interattiva, pagine di dettaglio per ogni città, preferiti/visitate salvati in locale e modalità scura.
 
 **[🔗 Demo live](https://ambrosinofabio.github.io/Italia-explorer/PJ1.html)**
+Sempre online, non serve installare nulla. Preferisci provarlo sul tuo computer? [Ecco come avviarlo in locale](https://github.com/AmbrosinoFabio/Italia-explorer#come-avviarlo-in-locale).
 
 - **Obiettivo:** integrare una libreria esterna reale in un progetto e gestire stato persistente lato utente
 - **Cosa ho imparato:** integrazione di Leaflet/OpenStreetMap, uso di `localStorage`, gestione di più pagine collegate tra loro
@@ -103,6 +105,7 @@ Sito di esplorazione delle città italiane, con card delle destinazioni, mappa i
 Pagina personale con il mio curriculum: profilo professionale, competenze, esperienze lavorative e formazione.
 
 **[🔗 Demo live](https://ambrosinofabio.github.io/cv-fabio-ambrosino/index.html)**
+Sempre online, non serve installare nulla. Preferisci provarlo sul tuo computer? [Ecco come avviarlo in locale](https://github.com/AmbrosinoFabio/cv-fabio-ambrosino#come-avviarlo-in-locale).
 
 - **Obiettivo:** avere una versione web del mio CV, facile da aggiornare e da condividere
 - **Cosa ho imparato:** layout CSS creativo e animazioni leggere
