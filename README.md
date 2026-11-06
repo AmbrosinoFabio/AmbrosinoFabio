@@ -39,7 +39,7 @@ Hi, I'm Fabio! I'm taking my first steps in front-end development, building proj
 
 ## 🎯 Journey
 
-Currently a Store Manager, with a background in running retail businesses and in the food service industry. Alongside this experience I'm studying front-end development through an ongoing Web Development course, building technical skills one real project at a time.
+Former Store Manager, with a background in running retail businesses and in the food service industry. I'm now focused on studying front-end development through an ongoing Web Development course, building technical skills one real project at a time.
 
 
 
