@@ -122,7 +122,7 @@ Always online, nothing to install. Prefer to try it on your own computer? [Here'
 - SAB License — Food and Beverage Service
 - HACCP Certificate — Food Safety
 - Fire Safety Certificate — Level 2
-- Udemy Course — Web Development (completed)
+- Udemy Course — Web Development
 - Simplilearn Course — Digital Marketing (in progress)
 
 
