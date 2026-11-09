@@ -39,7 +39,7 @@ Hi, I'm Fabio! I'm taking my first steps in front-end development, building proj
 
 ## 🎯 Journey
 
-Former Store Manager, with a background in running retail businesses and in the food service industry. I'm now focused on studying front-end development through an ongoing Web Development course, building technical skills one real project at a time.
+Former Store Manager, with a background in running retail businesses and in the food service industry. I've completed a Web Development course and I'm now focused on front-end development, building technical skills one real project at a time.
 
 
 
@@ -63,7 +63,7 @@ Former Store Manager, with a background in running retail businesses and in the 
 
 <div align="center">
 
-![Learning](https://img.shields.io/badge/Udemy%20Course%20%C2%B7%20Web%20Development-7c3aed?style=for-the-badge&labelColor=312e81&color=0891b2)
+![Learning](https://img.shields.io/badge/Simplilearn%20Course%20%C2%B7%20Digital%20Marketing-7c3aed?style=for-the-badge&labelColor=312e81&color=0891b2)
 ![Learning](https://img.shields.io/badge/Modern%20JavaScript%20(ES6%2B)-7c3aed?style=for-the-badge&labelColor=312e81&color=0891b2)
 
 </div>
@@ -122,7 +122,8 @@ Always online, nothing to install. Prefer to try it on your own computer? [Here'
 - SAB License — Food and Beverage Service
 - HACCP Certificate — Food Safety
 - Fire Safety Certificate — Level 2
-- Udemy Course — Web Development (in progress)
+- Udemy Course — Web Development (completed)
+- Simplilearn Course — Digital Marketing (in progress)
 
 
 <br>
