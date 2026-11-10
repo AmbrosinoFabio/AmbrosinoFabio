@@ -42,7 +42,7 @@ I'm also still learning front-end development (HTML, CSS, JavaScript): what I've
 ## 🎯 Journey
 
 - **My own store (3 years):** I ran a physical shop entirely on my own, from renovating the premises and handling every kind of permit, to sourcing stock from wholesalers with my own van, through to retail sales and visual merchandising.
-- **Web development:** completed a Web Development course and built the front-end projects below with plain HTML, CSS and JavaScript.
+- **Web development:** currently attending a Web Development course (in progress); so far I have built the front-end projects below with plain HTML, CSS and JavaScript.
 - **Now:** a study plan on e-commerce and digital marketing, with free video courses and certificates from Simplilearn and Semrush, plus optional Google exams (GA4, Google Ads Search, Shopping Ads).
 - **Currently building:** a Shopify development store for a real local business, used as a portfolio project: catalog, product SEO, a Google Ads Search campaign plan, email flows, a Merchant Center feed check and user testing, ending with a case study.
 
@@ -136,7 +136,7 @@ Always online, nothing to install. Prefer to try it on your own computer? [Here'
 - SAB License — Food and Beverage Service
 - HACCP Certificate — Food Safety
 - Fire Safety Certificate — Level 2
-- Udemy Course — Web Development
+- Udemy Course — Web Development (in progress)
 - Simplilearn SkillUp — Digital Marketing Fundamentals (in progress)
 
 **In progress**
