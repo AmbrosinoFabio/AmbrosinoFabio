@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:7c3aed,100:06b6d4&height=280&section=header&text=Fabio%20Ambrosino&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Front-End%20Developer%20%E2%80%94%20in%20training&descAlignY=55&descSize=18&descColor=e0f2fe" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:7c3aed,100:06b6d4&height=280&section=header&text=Fabio%20Ambrosino&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=E-commerce%20Specialist%20%C2%B7%20Front-End%20%E2%80%94%20in%20training&descAlignY=55&descSize=18&descColor=e0f2fe" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Exploring+the+web+one+project+at+a+time+%F0%9F%9A%80;HTML+%2B+CSS+%2B+JavaScript;Always+in+orbit+toward+new+ideas+%F0%9F%8C%8C" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=From+the+shop+floor+to+e-commerce+%F0%9F%9B%92;Shopify+%2B+GA4+%2B+Google+Ads;HTML+%2B+CSS+%2B+JavaScript;Always+in+orbit+toward+new+ideas+%F0%9F%8C%8C" />
 
 [![License](https://img.shields.io/badge/LICENSE-MIT-7c3aed?style=for-the-badge&labelColor=312e81)](https://github.com/AmbrosinoFabio/AmbrosinoFabio/blob/main/LICENSE)
 [![Status](https://img.shields.io/badge/STATUS-EVOLVING-0891b2?style=for-the-badge&labelColor=312e81)](#-featured-projects)
@@ -30,7 +30,9 @@
 
 ## 👋 About Me
 
-Hi, I'm Fabio! I'm taking my first steps in front-end development, building projects from scratch with plain HTML, CSS and JavaScript to master the fundamentals before moving on to frameworks. This profile collects my learning journey, and it will grow as I learn new things.
+Hi, I'm Fabio! I'm training to become an **E-commerce Specialist** with digital marketing and UI skills for online stores. I've run a physical store and my own small e-commerce, so I know the business side: customers, stock, KPIs. Now I'm adding the digital side: Shopify, analytics, ads, SEO and email marketing.
+
+My front-end background (HTML, CSS, JavaScript) helps me understand how a store is built and how a page can be improved to sell better. This profile collects my learning journey, and it will grow as I learn new things.
 
 <br>
 
@@ -39,7 +41,10 @@ Hi, I'm Fabio! I'm taking my first steps in front-end development, building proj
 
 ## 🎯 Journey
 
-Former Store Manager, with a background in running retail businesses and in the food service industry. I've completed a Web Development course and I'm now focused on front-end development, building technical skills one real project at a time.
+- **Retail:** Store Manager at IQOS Lounge Bolzano (team of 2–3, cash and stock management, KPIs such as NPS) and owner of Emporio Ambrosino, a shop with its own e-commerce. Earlier, experience in the food service industry.
+- **Web development:** completed a Web Development course and built the front-end projects below with plain HTML, CSS and JavaScript.
+- **Now (Nov 2026 – Jan 2027):** a 13-week study plan on e-commerce and digital marketing, with free video courses and certificates from Simplilearn and Semrush, plus optional Google exams (GA4, Google Ads Search, Shopping Ads).
+- **Currently building:** a Shopify development store for a real local business, used as a portfolio project: catalog, product SEO, a Google Ads Search campaign plan, email flows, a Merchant Center feed check and user testing, ending with a case study.
 
 
 
@@ -63,14 +68,23 @@ Former Store Manager, with a background in running retail businesses and in the 
 
 <div align="center">
 
-![Learning](https://img.shields.io/badge/Simplilearn%20Course%20%C2%B7%20Digital%20Marketing-7c3aed?style=for-the-badge&labelColor=312e81&color=0891b2)
-![Learning](https://img.shields.io/badge/Modern%20JavaScript%20(ES6%2B)-7c3aed?style=for-the-badge&labelColor=312e81&color=0891b2)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+![Google Analytics 4](https://img.shields.io/badge/Google%20Analytics%204-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
+![Google Merchant Center](https://img.shields.io/badge/Merchant%20Center-34A853?style=for-the-badge&logo=google&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO%20%C2%B7%20Semrush-FF642D?style=for-the-badge&logo=semrush&logoColor=white)
+![Meta Ads](https://img.shields.io/badge/Meta%20Ads-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![Mailchimp](https://img.shields.io/badge/Email%20Marketing%20%C2%B7%20Mailchimp-FFE01B?style=for-the-badge&logo=mailchimp&logoColor=black)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+
+<sub>Also improving my professional English (B1 → B2) for e-commerce work.</sub>
 
 </div>
 
 **Soft skills**
 
-Independent management of businesses and projects · Organization and basic accounting · Customer relations · Practical problem solving
+Independent management of businesses and projects · Small team leadership · KPI-driven mindset · Organization and basic accounting · Customer relations · Practical problem solving
 
 <br>
 
@@ -123,7 +137,13 @@ Always online, nothing to install. Prefer to try it on your own computer? [Here'
 - HACCP Certificate — Food Safety
 - Fire Safety Certificate — Level 2
 - Udemy Course — Web Development
-- Simplilearn Course — Digital Marketing (in progress)
+- Simplilearn SkillUp — Digital Marketing Fundamentals (in progress)
+
+**In progress · Nov 2026 – Jan 2027**
+
+- Simplilearn SkillUp — Facebook Marketing & Advertising, YouTube and Video Marketing, Advanced Email Marketing, Fundamentals of Mailchimp, Digital Marketing Strategy
+- Semrush Academy — SEO, Social Media Marketing, Content Marketing
+- Google Skillshop exams (optional) — Google Analytics 4, Google Ads Search, Shopping Ads
 
 
 <br>
