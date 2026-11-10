@@ -41,7 +41,6 @@ My front-end background (HTML, CSS, JavaScript) helps me understand how a store 
 
 ## 🎯 Journey
 
-- **Retail:** Store Manager at IQOS Lounge Bolzano (team of 2–3, cash and stock management, KPIs such as NPS) and owner of Emporio Ambrosino, a shop with its own e-commerce. Earlier, experience in the food service industry.
 - **Web development:** completed a Web Development course and built the front-end projects below with plain HTML, CSS and JavaScript.
 - **Now (Nov 2026 – Jan 2027):** a 13-week study plan on e-commerce and digital marketing, with free video courses and certificates from Simplilearn and Semrush, plus optional Google exams (GA4, Google Ads Search, Shopping Ads).
 - **Currently building:** a Shopify development store for a real local business, used as a portfolio project: catalog, product SEO, a Google Ads Search campaign plan, email flows, a Merchant Center feed check and user testing, ending with a case study.
