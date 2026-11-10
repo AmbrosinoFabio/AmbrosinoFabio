@@ -30,7 +30,7 @@
 
 ## 👋 About Me
 
-Hi, I'm Fabio! I'm training to become an **E-commerce Specialist** with digital marketing and UI skills for online stores. I've run a physical store and my own small e-commerce, so I know the business side: customers, stock, KPIs. Now I'm adding the digital side: Shopify, analytics, ads, SEO and email marketing.
+Hi, I'm Fabio! I'm currently **studying to become an E-commerce Specialist**, with digital marketing and UI skills for online stores. My studies are still in progress: I'm learning Shopify, analytics, ads, SEO and email marketing step by step, and putting each topic into practice on a real project. I've run a physical store and my own small e-commerce, so I already know the business side: customers, stock, KPIs.
 
 My front-end background (HTML, CSS, JavaScript) helps me understand how a store is built and how a page can be improved to sell better. This profile collects my learning journey, and it will grow as I learn new things.
 
