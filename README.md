@@ -139,7 +139,7 @@ Always online, nothing to install. Prefer to try it on your own computer? [Here'
 - Udemy Course — Web Development
 - Simplilearn SkillUp — Digital Marketing Fundamentals (in progress)
 
-**In progress · Nov 2026 – Jan 2027**
+**In progress**
 
 - Simplilearn SkillUp — Facebook Marketing & Advertising, YouTube and Video Marketing, Advanced Email Marketing, Fundamentals of Mailchimp, Digital Marketing Strategy
 - Semrush Academy — SEO, Social Media Marketing, Content Marketing
