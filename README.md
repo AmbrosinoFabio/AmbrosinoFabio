@@ -6,6 +6,8 @@
 
 [![License](https://img.shields.io/badge/LICENSE-MIT-7c3aed?style=for-the-badge&labelColor=312e81)](https://github.com/AmbrosinoFabio/AmbrosinoFabio/blob/main/LICENSE)
 [![Status](https://img.shields.io/badge/STATUS-LEARNING-0891b2?style=for-the-badge&labelColor=312e81)](#-journey)
+[![Riffologia](https://img.shields.io/github/last-commit/AmbrosinoFabio/riffologia?style=for-the-badge&color=7c3aed&labelColor=312e81&label=Riffologia)](https://github.com/AmbrosinoFabio/riffologia)
+[![Diritti al Lavoro](https://img.shields.io/github/last-commit/AmbrosinoFabio/diritti-al-lavoro?style=for-the-badge&color=7c3aed&labelColor=312e81&label=Diritti%20al%20Lavoro)](https://github.com/AmbrosinoFabio/diritti-al-lavoro)
 [![Dragon Ball](https://img.shields.io/github/last-commit/AmbrosinoFabio/dragon-ball?style=for-the-badge&color=7c3aed&labelColor=312e81&label=Dragon%20Ball)](https://github.com/AmbrosinoFabio/dragon-ball)
 [![Italia Explorer](https://img.shields.io/github/last-commit/AmbrosinoFabio/Italia-explorer?style=for-the-badge&color=7c3aed&labelColor=312e81&label=Italia%20Explorer)](https://github.com/AmbrosinoFabio/Italia-explorer)
 [![My CV](https://img.shields.io/github/last-commit/AmbrosinoFabio/cv-fabio-ambrosino?style=for-the-badge&color=7c3aed&labelColor=312e81&label=My%20CV)](https://github.com/AmbrosinoFabio/cv-fabio-ambrosino)
@@ -30,9 +32,9 @@
 
 ## 👋 About Me
 
-Hi, I'm Fabio. I'm currently **studying to become an E-commerce Specialist**, focusing on digital marketing and on the user experience of online stores. My training is still in progress: I'm working through Shopify, web analytics, online advertising, SEO and email marketing one step at a time, and applying each topic to a real project as I go.
+Hi, I'm Fabio. I'm currently **studying to become an E-commerce Specialist**, focusing on digital marketing and on the user experience of online stores. My training is still in progress: I'm working through web analytics, online advertising, SEO and email marketing one step at a time, and applying each topic to a real project as I go.
 
-Before this, I ran my own physical store and a small e-commerce, so I come to the digital side with hands-on knowledge of the business behind it: customers, suppliers, stock and margins.
+Before this, I ran my own physical store and its online shop, which I built on Shopify, so I come to the digital side with hands-on knowledge of the business behind it: customers, suppliers, stock and margins.
 
 Alongside e-commerce, I'm still learning front-end development with HTML, CSS and JavaScript. It helps me understand how an online store is built and how a page can be improved to convert better. This profile documents my progress and will keep growing as I learn.
 
@@ -42,10 +44,10 @@ Alongside e-commerce, I'm still learning front-end development with HTML, CSS an
 
 ## 🎯 Journey
 
-- **Store owner · 3 years** — I ran a physical shop entirely on my own: from renovating the premises and obtaining every permit, to sourcing stock from wholesalers with my own van, through to retail sales and visual merchandising.
+- **Store owner · 3 years** — I ran a physical shop entirely on my own: from renovating the premises and obtaining every permit, to sourcing stock from wholesalers with my own van, through to retail sales and visual merchandising. I also set up and ran the store's e-commerce on Shopify.
 - **Web development · in progress** — I'm attending a Web Development course and have built the front-end projects below using HTML, CSS and vanilla JavaScript.
 - **E-commerce and digital marketing · in progress** — A structured study path based on video courses from Simplilearn and Semrush, leading to their certificates and to the Google Skillshop exams for GA4, Google Ads Search and Shopping Ads.
-- **Portfolio project · in progress** — A Shopify store for a real local business, covering the full workflow: product catalog, product page SEO, a Google Ads Search campaign plan, email automations, Merchant Center feed review and user testing, ending in a case study.
+- **Portfolio project · in progress** — An online store for a real local business, built with WordPress (in development locally with WordPress Studio), covering the full workflow: product catalog, product page SEO, a Google Ads Search campaign plan, email automations, Merchant Center feed review and user testing, ending in a case study.
 
 <br>
 
@@ -62,6 +64,7 @@ Alongside e-commerce, I'm still learning front-end development with HTML, CSS an
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=ffffff)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
 
 </div>
 
@@ -69,7 +72,7 @@ Alongside e-commerce, I'm still learning front-end development with HTML, CSS an
 
 <div align="center">
 
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Google Analytics 4](https://img.shields.io/badge/Google%20Analytics%204-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
 ![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
 ![Google Merchant Center](https://img.shields.io/badge/Merchant%20Center-34A853?style=for-the-badge&logo=google&logoColor=white)
@@ -93,7 +96,39 @@ Independent business management · Supplier relations and purchasing · Visual m
 
 ## 🚀 Featured Projects
 
-> Every project is live on GitHub Pages, so there is nothing to install. Each repository also explains how to run it locally.
+> Every project is live on GitHub Pages, so there is nothing to install. Each repository also explains how to run it locally. Click a category to expand or collapse it.
+
+<details open>
+<summary><b>🌐 Websites</b> · complete sites with real content</summary>
+
+<br>
+
+### 🤘 [Riffologia](https://github.com/AmbrosinoFabio/riffologia)
+
+An interactive encyclopedia of rock, hard rock and metal, in English, Italian and German: the history of the genre, 56 subgenres, 355 bands, a Hall of Fame with votes, an instrument guide and a quiz. A playable guitar sits beside every page and shatters as you scroll.
+
+**[🔗 Live site](https://ambrosinofabio.github.io/riffologia/)** · [Run locally](https://github.com/AmbrosinoFabio/riffologia#running-it)
+
+- **Goal:** build a large, multilingual content site that stays fun to explore
+- **What I learned:** translating a site without a framework, canvas drawing and simple physics, sound with the Web Audio API, filtering and sorting large data sets
+- **Stack:** HTML · CSS · vanilla JavaScript
+
+### ⚖️ [Diritti al Lavoro](https://github.com/AmbrosinoFabio/diritti-al-lavoro)
+
+An Italian-language guide to workers' rights in Italy, from contracts and pay to dismissal and pensions. Every legal statement links to its official source, and the site includes a search, a deadline calculator and a working-hours check.
+
+**[🔗 Live site](https://ambrosinofabio.github.io/diritti-al-lavoro/)** · [Run locally](https://github.com/AmbrosinoFabio/diritti-al-lavoro#running-locally)
+
+- **Goal:** explain a complex topic clearly, with reliable sources and no trackers
+- **What I learned:** structuring a site with many pages, generating menus and the search index with a Python script, writing accessible and responsive layouts
+- **Stack:** HTML · CSS · vanilla JavaScript · Python
+
+</details>
+
+<details>
+<summary><b>🎨 Front-end Practice</b> · my first projects from the Web Development course</summary>
+
+<br>
 
 ### 🐉 [Dragon Ball](https://github.com/AmbrosinoFabio/dragon-ball)
 
@@ -115,6 +150,13 @@ A website for discovering Italian cities, with destination cards, an interactive
 - **What I learned:** working with Leaflet and OpenStreetMap, using `localStorage`, linking multiple pages together
 - **Stack:** HTML · CSS · JavaScript · Leaflet
 
+</details>
+
+<details>
+<summary><b>💼 Career & E-commerce</b> · personal page and e-commerce work</summary>
+
+<br>
+
 ### 📄 [My CV](https://github.com/AmbrosinoFabio/cv-fabio-ambrosino)
 
 A personal web page presenting my resume: professional profile, skills, work experience and education.
@@ -124,6 +166,12 @@ A personal web page presenting my resume: professional profile, skills, work exp
 - **Goal:** keep an online version of my resume that is easy to update and share
 - **What I learned:** creative CSS layouts and lightweight animations
 - **Stack:** HTML · CSS
+
+### 🛒 WordPress Online Store · *coming soon*
+
+An online store for a real local business, built with WordPress and currently in development locally with WordPress Studio. It will cover the whole process, from product catalog and SEO to a Google Ads campaign plan and email automations, ending in a case study.
+
+</details>
 
 <br>
 
